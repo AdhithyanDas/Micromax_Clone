@@ -1,0 +1,101 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+*{
+    font-family: 'poppins', sans-serif !important;
+}
+
+body{
+    margin: 0;
+}
+
+.logo{
+    width: 32px;
+}
+
+.nav-link{
+    color: rgba(255, 255, 255, .8) !important; 
+    font-weight: 600 !important;
+    font-size: 14px !important;
+}
+
+.search{
+    width: 25px;
+}
+
+.cart{
+    width: 17px;
+}
+
+.banner-1-div img{
+    width: 100%;
+    /* margin-top: 58px; */
+}
+
+.banner-2-div img{
+    width: 100%;
+}
+
+.banner-3-div img{
+    width: 100%;
+}
+
+.Audio{
+    background-color: rgba(128, 128, 128, 0.052);
+}
+
+.airfunk-1{
+    max-height: 700px;
+    max-width: 100%;
+}
+
+.airfunk-2{
+    max-height: 400px;
+    max-width: 250px;
+}
+
+.airfunk-3{
+    max-height: 400px;
+    max-width: 250px;
+}
+
+.airfunk-4{
+    max-height: 700px;
+    max-width: 100%;
+}
+
+.airpod-1 h2, .airpod-2 h2{
+    font-size: 3.5em;
+    font-weight: bold;
+}
+
+.airpod-1 .p-1, .airpod-2 .p-1{
+    font-size: 22px;
+}
+
+.airpod-1 .p-2, .airpod-2 .p-2{
+    color: #F36F21;
+    font-size: 40px;
+}
+
+.footer1{
+    font-size: 13px !important;
+}
+
+.footer1:hover{
+   color: #7ac6c9f6 !important;
+}
+
+.copyright{
+    font-size: 12px !important;
+}
+
+.header{
+    width: 100%;
+    height: 58px ;
+    background-color: black;
+}
+
+nav{
+    background-color: rgba(0, 0, 0, 0.7);
+    z-index: 1 !important;
+}
